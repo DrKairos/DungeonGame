@@ -232,7 +232,7 @@ public class BattleArena extends BasicGameState {
         left.addFrame(runningSS.getSprite(5, 9), 330);
 
         left.addFrame(runningSS.getSprite(6, 9), 330);
-
+ 
         left.addFrame(runningSS.getSprite(7, 9), 330);
 
         left.addFrame(runningSS.getSprite(8, 9), 330);
@@ -584,7 +584,3 @@ public class BattleArena extends BasicGameState {
     }
 
 }
-
-
-
-
